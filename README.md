@@ -1,25 +1,6 @@
-# Railway Management System API
+# Taransh's Railway Management System API
 
-This project is a Railway Management System API similar to IRCTC, built using Node.js, Express.js, and MySQL. The system includes functionalities for user registration, login, train management by admin, seat availability checking, seat booking, and role-based access control.
-
-## Table of Contents
-
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Environment Variables](#environment-variables)
-- [Running the Application](#running-the-application)
-- [API Endpoints](#api-endpoints)
-
-## Features
-
-- User Registration and Login
-- Train Management (Admin)
-- Check Seat Availability
-- Book Seats
-- Role-Based Access Control
-- JWT Authentication
-- Handle Race Conditions in Booking
+This project is a Railway Management System API, inspired by IRCTC, built using Node.js, Express.js, and MySQL. It includes essential functionalities such as user registration, login, train management (admin), seat availability checking, seat booking, and role-based access control with JWT authentication.
 
 ## Tech Stack
 
